@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **souleimen.lachguer@laplateforme.io**
 
-- ⚡ Fun fact **I am better than abbas-ahmedmoussa at football and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
