@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souleimen-lachguer&label=Profile%20views&color=0e75b6&style=flat" alt="souleimen-lachguer" /> </p>
 
-- 🌱 I’m currently learning **Virtual Machines**
-
-- 🤝 I’m looking for help with **Cyber security**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available in a portfolio coming soon
 
